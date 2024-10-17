@@ -3,7 +3,7 @@ Version:	63255
 Release:	2
 Summary:	Devanagari fonts by EkType
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ektype-tanka
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ektype-tanka
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ektype-tanka.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ektype-tanka.doc.r%{version}.tar.xz
